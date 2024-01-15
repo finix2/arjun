@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/arjun/static/css/main.89fda867.css",
-    "main.js": "/arjun/static/js/main.fca4e6cb.js",
+    "main.css": "/arjun/static/css/main.79c1319e.css",
+    "main.js": "/arjun/static/js/main.0c4402cb.js",
     "index.html": "/arjun/index.html",
     "static/media/blob-haikei.svg": "/arjun/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.89fda867.css.map": "/arjun/static/css/main.89fda867.css.map",
-    "main.fca4e6cb.js.map": "/arjun/static/js/main.fca4e6cb.js.map"
+    "main.79c1319e.css.map": "/arjun/static/css/main.79c1319e.css.map",
+    "main.0c4402cb.js.map": "/arjun/static/js/main.0c4402cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.89fda867.css",
-    "static/js/main.fca4e6cb.js"
+    "static/css/main.79c1319e.css",
+    "static/js/main.0c4402cb.js"
   ]
 }
